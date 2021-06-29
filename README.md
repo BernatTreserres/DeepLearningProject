@@ -8,3 +8,5 @@ The following directories have to be updated by downloading the files from googl
 To properly execute the code, initialize the tfod virtual environment with the command:
 
         ./tfod/Scripts/activate
+
+And select tfod as the kernel of the Jupyter Notebook
